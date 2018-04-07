@@ -1,0 +1,18 @@
+.Movie {
+    text-align: center;
+    background-color: #000;
+    padding: 1em;
+    border-radius: 10px;
+    display: block;
+    text-decoration: none;
+}
+
+.Movie__poster {
+    width: 200px;
+    height: auto;
+}
+
+.Movie__title {
+    text-decoration: none;
+    color: #ccc;
+}

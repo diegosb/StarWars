@@ -1,0 +1,16 @@
+.movies__list {
+    display: block;
+    list-style: none;
+}
+
+.movies__item {
+    display: inline-block;
+    width: 33.3333%;
+    padding: 1em 3em;
+    margin: 1em auto;
+}
+
+.movies__no-results {
+    color: #999;
+    text-align: center;
+}

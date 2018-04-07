@@ -1,0 +1,16 @@
+.SearchBar {
+    text-align: center;
+}
+
+.SearchBar__input {
+    color: #999;
+    width: 45%;
+    text-shadow: none;
+    outline: none;
+    border: none;
+    box-shadow: none;
+    padding: .5em;
+    font-size: 1.15em;
+    background-color: transparent;
+    border-bottom: 1px solid #999;
+}

@@ -1,0 +1,21 @@
+.MovieDetails {
+    text-align: center;
+    padding: 1em 3em;
+}
+
+.MovieDetails__poster {
+    width: 400px;
+    height: auto;
+}
+
+.MovieDetails__content {
+    display: inline-block;
+    font-size: 1em;
+    line-height: 1.8;
+}
+
+.MovieDetails__return {
+    text-decoration: none;
+    text-align: left;
+    color: #999;
+}
